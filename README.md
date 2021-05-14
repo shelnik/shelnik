@@ -1,10 +1,10 @@
-Политика конфиденциальности
+Privacy Policy
 
-Это приложение предоставляется бесплатно и предназначено для использования «как есть». Эта страница используется для информирования посетителей о моей политике в отношении сбора, использования и раскрытия Личной информации. Если вы решите использовать это приложение, то вы соглашаетесь на сбор и использование информации в отношении этой политики. Личная информация, которую Я собираю, используется только для расчёта звуковых подсказок. Я не буду использовать или передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике конфиденциальности. Термины, используемые в настоящей Политике конфиденциальности, имеют то же значение, что и в наших Положениях и условиях, которые доступны на AyAylite, если иное не определено в настоящей Политике конфиденциальности.
+To use this application, you will be required to provide your location information. To support the calculation of audio prompts, the application collects location data even when the application window is closed and the screen is turned off. "(Your device may be in your pocket instead of in your hands).
 
-Для использования этого приложения от вас потребуется предоставить информацию вашего местоположения. Чтобы поддерживать расчёт звуковых подсказок, приложение собирает данные о местоположении, даже когда окно приложения закрыто а экран выключен". (Ваше устройсво при этом может находится в кармане одежды а не в руках).
+This application is provided free of charge and is intended to be used “as is”. This page is used to inform visitors about my policies regarding the collection, use and disclosure of Personal Information. If you choose to use this application, then you agree to the collection and use of information in relation to this policy. The personal information I collect is only used to calculate audio prompts. I will not use or share your information with anyone.
+The terms used in this Privacy Policy have the same meaning as in our Terms and Conditions which are available on AyAylite, unless otherwise defined in this Privacy Policy.
 
-Изменения в настоящей Политике конфиденциальности
+Changes to this Privacy Policy
 
-Я время от времени могу обновлять Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на предмет изменений. Я уведомлю вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эта политика действует с 2021-05-14. Если у вас есть какие-либо вопросы или предложения относительно моей Политики конфиденциальности, обращайтесь ко мне по адресу shelnikola@gmail.com.
-      
+I may update the Privacy Policy from time to time. Therefore, you are encouraged to periodically review this page for changes. I will notify you of any changes by posting a new Privacy Policy on this page. This policy is valid from 2021-05-14. If you have any questions or suggestions regarding my Privacy Policy, please contact me at shelnikola@gmail.com.
